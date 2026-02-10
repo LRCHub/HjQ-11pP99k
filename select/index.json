@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Champion Road",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-02-10T05:20:44.634821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Champion Road",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/01_Champion_Road_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Champion Road",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/02_Champion_Road_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Champion Road  (Band Version)",
+      "artist": "Bad Hop",
+      "has_synced": false,
+      "path": "select/03_Champion_Road_(Band_Version)_Bad_Hop.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Champion Road (Band Version) (Amazon Music Original)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Champion_Road_(Band_Version)_(Amazon_Music_Original)_BAD_HOP.txt"
+    }
+  ]
+}
